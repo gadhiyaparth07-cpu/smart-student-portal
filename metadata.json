@@ -1,0 +1,6 @@
+{
+  "name": "Smart Student Portal",
+  "description": "Unified academic dashboard for Semester 3 CSE (AI/ML) students featuring assignments, attendance tracking, timetables, examination results, and college announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
